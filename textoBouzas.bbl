@@ -1,0 +1,1096 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/global//global/global}
+    \entry{Bshary2002}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=a4e06071fc950a168cbef4fe761a276b}{%
+           family={Bshary},
+           familyi={B\bibinitperiod},
+           given={Redouan},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f4d7c87c64cc163243a2bdc91a41b005}{%
+           family={Grutter},
+           familyi={G\bibinitperiod},
+           given={Alexandra\bibnamedelima S.},
+           giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d72e8b4addb03ae52cd3656704a4a6cc}
+      \strng{fullhash}{d72e8b4addb03ae52cd3656704a4a6cc}
+      \strng{bibnamehash}{d72e8b4addb03ae52cd3656704a4a6cc}
+      \strng{authorbibnamehash}{d72e8b4addb03ae52cd3656704a4a6cc}
+      \strng{authornamehash}{d72e8b4addb03ae52cd3656704a4a6cc}
+      \strng{authorfullhash}{d72e8b4addb03ae52cd3656704a4a6cc}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1461-023X}
+      \field{journaltitle}{Ecology Letters}
+      \field{month}{1}
+      \field{number}{1}
+      \field{title}{{Experimental evidence that partner choice is a driving force in the payoff distribution among cooperators or mutualists: the cleaner fish case}}
+      \field{volume}{5}
+      \field{year}{2002}
+      \field{pages}{130\bibrangedash 136}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1046/j.1461-0248.2002.00295.x
+      \endverb
+      \verb{file}
+      \verb :home/daniel/.local/share/data/Mendeley Ltd./Mendeley Desktop/Downloaded/Bshary, Grutter - 2002 - Experimental evidence that partner choice is a driving force in the payoff distribution among cooperators or mu.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://doi.wiley.com/10.1046/j.1461-0248.2002.00295.x
+      \endverb
+      \verb{url}
+      \verb http://doi.wiley.com/10.1046/j.1461-0248.2002.00295.x
+      \endverb
+      \keyw{130,136,2002,5,biological markets,ecology letters,labroides dimidiatus,market theory can provide,mutualism,partner choice,proposed that basic human,the}
+    \endentry
+    \entry{Chow2017}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=a452f1105af9c89f3bed9f6909826164}{%
+           family={Chow},
+           familyi={C\bibinitperiod},
+           given={Jonathan\bibnamedelima J.},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=63d25359d5221d420fdd1d917e099ab0}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={Aaron\bibnamedelima P.},
+           giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=33b447eb858b32f3ae2190440a915358}{%
+           family={Wilson},
+           familyi={W\bibinitperiod},
+           given={A.\bibnamedelimi George},
+           giveni={A\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=eddae54ab1373f6cb6de2b4041189374}{%
+           family={Zentall},
+           familyi={Z\bibinitperiod},
+           given={Thomas\bibnamedelima R.},
+           giveni={T\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a0c96eef145fe6d81f3c392aebd65643}{%
+           family={Beckmann},
+           familyi={B\bibinitperiod},
+           given={Joshua\bibnamedelima S.},
+           giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier B.V.}%
+      }
+      \strng{namehash}{c09387e4548178e398fcbd33588e01e3}
+      \strng{fullhash}{0b40d4bad70a553380e31569e3079e26}
+      \strng{bibnamehash}{0b40d4bad70a553380e31569e3079e26}
+      \strng{authorbibnamehash}{0b40d4bad70a553380e31569e3079e26}
+      \strng{authornamehash}{c09387e4548178e398fcbd33588e01e3}
+      \strng{authorfullhash}{0b40d4bad70a553380e31569e3079e26}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Stimuli that are more predictive of subsequent reward also function as better conditioned reinforcers. Moreover, stimuli attributed with incentive salience function as more robust conditioned reinforcers. Some theories have suggested that conditioned reinforcement plays an important role in promoting suboptimal choice behavior, like gambling. The present experiments examined how different stimuli, those attributed with incentive salience versus those without, can function in tandem with stimulus-reward predictive utility to promote maladaptive decision-making in rats. One group of rats had lights associated with goal-tracking as the reward-predictive stimuli and another had levers associated with sign-tracking as the reward-predictive stimuli. All rats were first trained on a choice procedure in which the expected value across both alternatives was equivalent but differed in their stimulus-reward predictive utility. Next, the expected value across both alternatives was systematically changed so that the alternative with greater stimulus-reward predictive utility was suboptimal in regard to primary reinforcement. The results demonstrate that in order to obtain suboptimal choice behavior, incentive salience alongside strong stimulus-reward predictive utility may be necessary; thus, maladaptive decision-making can be driven more by the value attributed to stimuli imbued with incentive salience that reliably predict a reward rather than the reward itself.}
+      \field{issn}{01664328}
+      \field{journaltitle}{Behavioural Brain Research}
+      \field{month}{3}
+      \field{title}{{Suboptimal choice in rats: Incentive salience attribution promotes maladaptive decision-making}}
+      \field{volume}{320}
+      \field{year}{2017}
+      \field{pages}{244\bibrangedash 254}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1016/j.bbr.2016.12.013
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.1016/j.bbr.2016.12.013 https://linkinghub.elsevier.com/retrieve/pii/S0166432816310415
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1016/j.bbr.2016.12.013%20https://linkinghub.elsevier.com/retrieve/pii/S0166432816310415
+      \endverb
+      \keyw{Decision making,Goal tracking,Incentive salience,Sign tracking,Suboptimal choice}
+    \endentry
+    \entry{Gipson2009}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=ab4f96b3e4d2cb48b8c7865862ed38d2}{%
+           family={Gipson},
+           familyi={G\bibinitperiod},
+           given={C.\bibnamedelimi D.},
+           giveni={C\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9403359d55bf28a70ef6ad3db754553d}{%
+           family={Alessandri},
+           familyi={A\bibinitperiod},
+           given={J.\bibnamedelimi J.\bibnamedelimi D.},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4abab4192b93961b4e84d5ca6dd4d689}{%
+           family={Miller},
+           familyi={M\bibinitperiod},
+           given={H.\bibnamedelimi C.},
+           giveni={H\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=45657b82071af30582b0dc7ddad89873}{%
+           family={Zentall},
+           familyi={Z\bibinitperiod},
+           given={T.\bibnamedelimi R.},
+           giveni={T\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d721f49cb0d96358990ee5911cbf33fc}
+      \strng{fullhash}{c30c04273a6669178201198fba513776}
+      \strng{bibnamehash}{c30c04273a6669178201198fba513776}
+      \strng{authorbibnamehash}{c30c04273a6669178201198fba513776}
+      \strng{authornamehash}{d721f49cb0d96358990ee5911cbf33fc}
+      \strng{authorfullhash}{c30c04273a6669178201198fba513776}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{When pigeons are given a choice between an initial-link alternative that results in either a terminal-link stimulus correlated with 100{\%} reinforcement or a stimulus correlated with 0{\%} reinforcement (overall 50{\%} reinforcement) and another initial-link alternative that always results in a terminal-link stimulus correlated with 100{\%} reinforcement, some pigeons show a preference for the initial-link alternative correlated with 50{\%} reinforcement. Using this procedure, in Experiment 1, we found a relatively modest preference for 100{\%} over 50{\%} reinforcement. In Experiment 2, we decreased the reinforcement density for the second initial-link alternative to 75{\%} and found a significant preference for the 50{\%} reinforcement initial-link alternative. It may be that this "maladaptive" behavior results from a positive contrast between the expectation of reinforcement correlated with the 50{\%} reinforcement initial-link alternative and the terminal-link stimulus correlated with 100{\%} reinforcement. But apparently, the complementary negative contrast does not develop between the expectation of reinforcement correlated with the 50{\%} reinforcement initial-link alternative and the terminal-link stimulus correlated with 0{\%} reinforcement that often follow. Such paradoxical choice may account for certain human appetitive risk-taking behavior (e.g., gambling) as well.}
+      \field{issn}{1543-4494}
+      \field{journaltitle}{Learning {\&} Behavior}
+      \field{month}{11}
+      \field{number}{4}
+      \field{title}{{Preference for 50{\%} reinforcement over 75{\%} reinforcement by pigeons}}
+      \field{volume}{37}
+      \field{year}{2009}
+      \field{pages}{289\bibrangedash 298}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.3758/LB.37.4.289
+      \endverb
+      \verb{file}
+      \verb :home/daniel/.local/share/data/Mendeley Ltd./Mendeley Desktop/Downloaded/Gipson et al. - 2009 - Preference for 50{\%} reinforcement over 75{\%} reinforcement by pigeons.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://link.springer.com/10.3758/LB.37.4.289
+      \endverb
+      \verb{url}
+      \verb http://link.springer.com/10.3758/LB.37.4.289
+      \endverb
+    \endentry
+    \entry{Green2014}{inbook}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=c2f3f0e24c16d43b6dbbcd25e1dfd84d}{%
+           family={Green},
+           familyi={G\bibinitperiod},
+           given={Leonard},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fb499f633eafd20e2ebbd184081c11c1}{%
+           family={Myerson},
+           familyi={M\bibinitperiod},
+           given={Joel},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f6b2cfc32c10f998cf7e4c87c67bc50c}{%
+           family={Vanderveldt},
+           familyi={V\bibinitperiod},
+           given={Ariana},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Oxford, UK}%
+      }
+      \list{publisher}{1}{%
+        {John Wiley {\&} Sons, Ltd}%
+      }
+      \strng{namehash}{9ca5c3f6bba6701b5f9ad3921e8e4388}
+      \strng{fullhash}{72c544ba523f407cecff99b3bbae54f2}
+      \strng{bibnamehash}{72c544ba523f407cecff99b3bbae54f2}
+      \strng{authorbibnamehash}{72c544ba523f407cecff99b3bbae54f2}
+      \strng{authornamehash}{9ca5c3f6bba6701b5f9ad3921e8e4388}
+      \strng{authorfullhash}{72c544ba523f407cecff99b3bbae54f2}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The purpose of this review is to introduce the reader to the concepts of delay and probability discounting as well as the major empirical findings to emerge from research with humans on these concepts. First, we review a seminal discounting study by Rachlin, Raineri, and Cross (1991) as well as an influential extension of this study by Madden, Petry, Badger, and Bickel (1997). In doing so, we describe the general procedure used for assessing discounting and the resulting form of the obtained discounting functions. With this as background, we review additional empirical findings that have emerged over the last 20 years, by addressing issues such as time consistency and preference reversals, magnitude effects, and the gain-loss asymmetry. Finally, we conclude with a discussion of more recent developments and their implications for the future of this growing area.}
+      \field{booktitle}{Wiley Blackwell Handbook of Operant and Classical Conditioning}
+      \field{issn}{00332933}
+      \field{month}{5}
+      \field{number}{4}
+      \field{title}{{Delay and probability discounting}}
+      \field{volume}{62}
+      \field{year}{2014}
+      \field{pages}{307\bibrangedash 337}
+      \range{pages}{31}
+      \verb{doi}
+      \verb 10.1002/9781118468135.ch13
+      \endverb
+      \verb{file}
+      \verb :home/daniel/.local/share/data/Mendeley Ltd./Mendeley Desktop/Downloaded/Green, Myerson, Vanderveldt - 2014 - Delay and Probability Discounting.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/10.1002/9781118468135.ch13
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/10.1002/9781118468135.ch13
+      \endverb
+      \keyw{Choice,Decision making,Delay discounting,Impulsivity,Probability discounting,Risky behavior}
+    \endentry
+    \entry{Harper1982}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5e51ef50d3b49b11a6d97e4292a592ce}{%
+           family={Harper},
+           familyi={H\bibinitperiod},
+           given={D.\bibnamedelimi G.C.},
+           giveni={D\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5e51ef50d3b49b11a6d97e4292a592ce}
+      \strng{fullhash}{5e51ef50d3b49b11a6d97e4292a592ce}
+      \strng{bibnamehash}{5e51ef50d3b49b11a6d97e4292a592ce}
+      \strng{authorbibnamehash}{5e51ef50d3b49b11a6d97e4292a592ce}
+      \strng{authornamehash}{5e51ef50d3b49b11a6d97e4292a592ce}
+      \strng{authorfullhash}{5e51ef50d3b49b11a6d97e4292a592ce}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Mallards (Anas platyrhynchos L.) distribute themselves between two patches of food in a close approximation to the distribution predicted by the ideal free model. However an important assumption of this model is violated since the despotic behaviour of some individuals results in different birds receiving unequal payoffs. The distribution of the birds between the food patches is influenced by the distribution of these despots. Evidence is presented to suggest that the ducks initially use the frequency of supply of food items at a patch to assess its profitability, but they can, over a longer time scale, use other cues. {©} 1982.}
+      \field{issn}{00033472}
+      \field{journaltitle}{Animal Behaviour}
+      \field{month}{5}
+      \field{number}{2}
+      \field{title}{{Competitive foraging in mallards: ``Ideal free'' ducks}}
+      \field{volume}{30}
+      \field{year}{1982}
+      \field{pages}{575\bibrangedash 584}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1016/S0003-3472(82)80071-7
+      \endverb
+      \verb{file}
+      \verb :home/daniel/.local/share/data/Mendeley Ltd./Mendeley Desktop/Downloaded/Harper - 1982 - Competitive foraging in mallards ``Ideal free'' ducks.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0003347282800717
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0003347282800717
+      \endverb
+    \endentry
+    \entry{Kendall1974}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=12c43fbacca5bc0ef7d558e6a2c29dfc}{%
+           family={Kendall},
+           familyi={K\bibinitperiod},
+           given={Stephen\bibnamedelima B.},
+           giveni={S\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{12c43fbacca5bc0ef7d558e6a2c29dfc}
+      \strng{fullhash}{12c43fbacca5bc0ef7d558e6a2c29dfc}
+      \strng{bibnamehash}{12c43fbacca5bc0ef7d558e6a2c29dfc}
+      \strng{authorbibnamehash}{12c43fbacca5bc0ef7d558e6a2c29dfc}
+      \strng{authornamehash}{12c43fbacca5bc0ef7d558e6a2c29dfc}
+      \strng{authorfullhash}{12c43fbacca5bc0ef7d558e6a2c29dfc}
+      \field{extraname}{1}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Two experiments were conducted demonstrating that under certain conditions pigeons may peck at a higher rate on a key that produces intermittent reinforcement following a delay than on one that always produces reinforcement following the same delay duration. In both experiments, concurrent chain schedules were employed. In Experiment I, a single peck on one key led to a white light and a delay of 15 sec, which always terminated with food. A peck on the other key led to its illumination by one of two colored lights and a delay period of 15 sec. The delay was followed by either food presentation or timeout, either one lasting 3 sec. In a control group, the lights on this key were not correlated with food or timeout. Under the correlated stimuli, birds more often pecked the key leading to intermittent reinforcement, whereas with uncorrelated stimuli they pecked the key leading to the white light and 100{\%} reinforcement. In Experiment II, concurrent variable-interval schedules were employed in the first link. The results showed generally that the relative rate was higher on the key leading to intermittent reinforce-imient when the stimuli were correlated with reinforcement and timeout than on the key leading to 100{\%} reinforcement. There was some indication that this performance was affected by (1) the duration of the delay, (2) the percentage of reinforcement on the key yielding the higher percentage of reinforcement (the key with the white light), and (3) prior experimental conditions. Using a modified chain schedule procedure, Wilton and Clements (197 la) showed that pigeons may peck at a higher rate in the initial component when the stimuli for the terminal component are correlated with a relatively low density of reinforcement than when the stimuli for the terminal component are correlated with a relatively high density of reinforcement. These findings are contrary to the usual findings obtained with chained schedules, which show that the response rate in the initial component increases as the frequency of reinforcement in the terminal component increases (see Kelleher, 1966). In their experiment, Wilton and Clements compared three conditions. In all conditions, pigeons responded on a fixed-interval schedule in the initial link. Two stimuli are correlated with the terminal link, which was a fixed duration with free reinforcement or timeout at the end. correlated with only one of the two stimuli in the terminal link; the other stimulus was followed by a short timeout. In another condition , food was delivered at the end of half of the terminal links, but neither stimulus was reliably correlated with its delivery. In the third condition, each terminal link, regardless of the stimulus, terminated with food delivery. The response rate in the initial component was highest in the first of these conditions , without much difference between the last two conditions. A study by Kendall (1972) replicated these findings with terminal links of two different durations and reinforcement in each. Response rates were higher in the initial component followed by one long and one short terminal component than in the component followed by two short terminal components. This effect disappeared, however, when the two stimuli for the terminal components were no longer reliably correlated with the duration of the terminal components. Wilton and Clements (1971a) and Wilton (1972) interpreted the findings of the Wilton and Clements experiments in terms of an information hypothesis. The information hy-463 1974, 21, 463-473 NUMBER 3 (MAY)}
+      \field{issn}{00225002}
+      \field{journaltitle}{Journal of the Experimental Analysis of Behavior}
+      \field{month}{5}
+      \field{number}{3}
+      \field{title}{{Preference for intermittent reinforcement}}
+      \field{volume}{21}
+      \field{year}{1974}
+      \field{pages}{463\bibrangedash 473}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1901/jeab.1974.21-463
+      \endverb
+      \verb{file}
+      \verb :home/daniel/.local/share/data/Mendeley Ltd./Mendeley Desktop/Downloaded/Kendall - 1974 - Preference for intermittent reinforcement.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://www.pubmedcentral.gov/articlerender.fcgi?artid=1333219 http://doi.wiley.com/10.1901/jeab.1974.21-463
+      \endverb
+      \verb{url}
+      \verb http://www.pubmedcentral.gov/articlerender.fcgi?artid=1333219%20http://doi.wiley.com/10.1901/jeab.1974.21-463
+      \endverb
+    \endentry
+    \entry{Kendall1985}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=12c43fbacca5bc0ef7d558e6a2c29dfc}{%
+           family={Kendall},
+           familyi={K\bibinitperiod},
+           given={Stephen\bibnamedelima B.},
+           giveni={S\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{12c43fbacca5bc0ef7d558e6a2c29dfc}
+      \strng{fullhash}{12c43fbacca5bc0ef7d558e6a2c29dfc}
+      \strng{bibnamehash}{12c43fbacca5bc0ef7d558e6a2c29dfc}
+      \strng{authorbibnamehash}{12c43fbacca5bc0ef7d558e6a2c29dfc}
+      \strng{authornamehash}{12c43fbacca5bc0ef7d558e6a2c29dfc}
+      \strng{authorfullhash}{12c43fbacca5bc0ef7d558e6a2c29dfc}
+      \field{extraname}{2}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In Experiment I four pigeons were trained in a concurrent chains procedure with fixed-ratio schedules (FR1) in the initial components and fixed-time schedules in the terminal components. Pecking one of the keys when both keys were white initiated a fixed time schedule on that key. A peck to the left key produced three stripes on the key. At the termination of the fixed-time component food always occurred. Pecking the other key produced either a circle or a triangle. If a circle appeared, reinforcement occurred. If a triangle appeared a brief timeout was given. Initially the stripes appeared on the left key and the circle and triangle on the left. This was reversed during the course of the experiment. In addition, sessions were conducted in which both circle and triangle sometimes preceded reinforcement and sometimes timeout. For most birds under most conditions there was a preference for the key that produced the circle and triangle. When these were uncorrelated with reinforcement and time out three of the birds preferred the key producing 100{\%} reinforcement. In Experiment II three factors were varied and VI 20 sec schedules were used in the initial links instead of FR1. The results showed that pigeons preferred the 50{\%} condition more 1) the greater the duration of the terminal links, 2) the smaller the value on the initial link VI schedules and 3) the less the probability of food in the terminal link with stripes on the key. {©} 1985.}
+      \field{issn}{03766357}
+      \field{journaltitle}{Behavioural Processes}
+      \field{month}{5}
+      \field{number}{4}
+      \field{title}{{A further study of choice and percentage reinforcement}}
+      \field{volume}{10}
+      \field{year}{1985}
+      \field{pages}{399\bibrangedash 413}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1016/0376-6357(85)90040-3
+      \endverb
+      \verb{file}
+      \verb :home/daniel/.local/share/data/Mendeley Ltd./Mendeley Desktop/Downloaded/Kendall - 1985 - A further study of choice and percentage reinforcement.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://linkinghub.elsevier.com/retrieve/pii/0376635785900403
+      \endverb
+      \verb{url}
+      \verb http://linkinghub.elsevier.com/retrieve/pii/0376635785900403
+      \endverb
+    \endentry
+    \entry{Laude2014a}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=626e7fea33bda27de0faa133b42f0480}{%
+           family={Laude},
+           familyi={L\bibinitperiod},
+           given={Jennifer\bibnamedelima R.},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=182d9f6f33d8a87ad7bf381bfa2c5adc}{%
+           family={Stagner},
+           familyi={S\bibinitperiod},
+           given={Jessica\bibnamedelima P.},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=eddae54ab1373f6cb6de2b4041189374}{%
+           family={Zentall},
+           familyi={Z\bibinitperiod},
+           given={Thomas\bibnamedelima R.},
+           giveni={T\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f7a43c6f77cfabd6a68593b004a390f9}
+      \strng{fullhash}{d87828ee36ab1ec830839014c78f83d7}
+      \strng{bibnamehash}{d87828ee36ab1ec830839014c78f83d7}
+      \strng{authorbibnamehash}{d87828ee36ab1ec830839014c78f83d7}
+      \strng{authornamehash}{f7a43c6f77cfabd6a68593b004a390f9}
+      \strng{authorfullhash}{d87828ee36ab1ec830839014c78f83d7}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Pigeons prefer an alternative that provides them with a stimulus 20{\%} of the time that predicts 10 pellets of food and a different stimulus 80{\%} of the time that predicts 0 pellets, over an alternative that provides them with a stimulus that always predicts 3 pellets of food, even though the preferred alternative provides them with considerably less food. It appears that the stimulus that predicts 10 pellets acts as a strong conditioned reinforcer, despite the fact that the stimulus that predicts 0 pellets occurs 4 times as often. In the present research, we tested the hypothesis that early in training conditioned inhibition develops to the 0-pellet stimulus, but later in training it dissipates. We trained pigeons with a hue as the 10-pellet stimulus and a vertical line as the 0-pellet stimulus. To assess the inhibitory value of the vertical line, we compared responding to the 10-pellet hue with responding to the compound of the 10-pellet hue and the vertical line early in training and once again late in training, using both a within-subject design (Experiment 1) and a between-groups design (Experiment 2). We found that there was a significant reduction in inhibition between the early test (when pigeons chose optimally) and late test (when choice was suboptimal). Thus, the increase in suboptimal choice may result from the decline in inhibition to the 0-pellet stimulus. Implications for human gambling behavior are considered.}
+      \field{issn}{2329-8464}
+      \field{journaltitle}{Journal of Experimental Psychology: Animal Learning and Cognition}
+      \field{number}{1}
+      \field{title}{{Suboptimal choice by pigeons may result from the diminishing effect of nonreinforcement.}}
+      \field{volume}{40}
+      \field{year}{2014}
+      \field{pages}{12\bibrangedash 21}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1037/xan0000010
+      \endverb
+      \verb{file}
+      \verb :home/daniel/.local/share/data/Mendeley Ltd./Mendeley Desktop/Downloaded/Laude, Stagner, Zentall - 2014 - Suboptimal choice by pigeons may result from the diminishing effect of nonreinforcement.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://doi.apa.org/getdoi.cfm?doi=10.1037/xan0000010
+      \endverb
+      \verb{url}
+      \verb http://doi.apa.org/getdoi.cfm?doi=10.1037/xan0000010
+      \endverb
+      \keyw{Gambling,Inhibition,Pigeons,Suboptimal choice}
+    \endentry
+    \entry{McDevitt2016}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=7a3858da5f10ec6c827639844fdb8e8d}{%
+           family={McDevitt},
+           familyi={M\bibinitperiod},
+           given={Margaret\bibnamedelima A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a2e1d4875bb6e11c25bdb2581640fe93}{%
+           family={Dunn},
+           familyi={D\bibinitperiod},
+           given={Roger},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dd07e5f0af368505a7de17d341421fb1}{%
+           family={Spetch},
+           familyi={S\bibinitperiod},
+           given={Marcia\bibnamedelima L.},
+           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=eb679e1e91736f82b323b5e34229fbe3}{%
+           family={Ludvig},
+           familyi={L\bibinitperiod},
+           given={Elliot\bibnamedelima A.},
+           giveni={E\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5409611bedf1ff0c4033710e212d6ba1}
+      \strng{fullhash}{fe19950dfb202c44994e14e8419d5e38}
+      \strng{bibnamehash}{fe19950dfb202c44994e14e8419d5e38}
+      \strng{authorbibnamehash}{fe19950dfb202c44994e14e8419d5e38}
+      \strng{authornamehash}{5409611bedf1ff0c4033710e212d6ba1}
+      \strng{authorfullhash}{fe19950dfb202c44994e14e8419d5e38}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Pigeons and other animals sometimes deviate from optimal choice behavior when given informative signals for delayed outcomes. For example, when pigeons are given a choice between an alternative that always leads to food after a delay and an alternative that leads to food only half of the time after a delay, preference changes dramatically depending on whether the stimuli during the delays are correlated with (signal) the outcomes or not. With signaled outcomes, pigeons show a much greater preference for the suboptimal alternative than with unsignaled outcomes. Key variables and research findings related to this phenomenon are reviewed, including the effects of durations of the choice and delay periods, probability of reinforcement, and gaps in the signal. We interpret the available evidence as reflecting a preference induced by signals for good news in a context of uncertainty. Other explanations are briefly summarized and compared.}
+      \field{isbn}{1099-114X}
+      \field{issn}{00225002}
+      \field{journaltitle}{Journal of the Experimental Analysis of Behavior}
+      \field{month}{1}
+      \field{number}{1}
+      \field{title}{{When good news leads to bad choices}}
+      \field{volume}{105}
+      \field{year}{2016}
+      \field{pages}{23\bibrangedash 40}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.1002/jeab.192
+      \endverb
+      \verb{file}
+      \verb :home/daniel/.local/share/data/Mendeley Ltd./Mendeley Desktop/Downloaded/McDevitt et al. - 2016 - When good news leads to bad choices.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://doi.wiley.com/10.1002/jeab.192
+      \endverb
+      \verb{url}
+      \verb http://doi.wiley.com/10.1002/jeab.192
+      \endverb
+      \keyw{conditioned reinforcement,context,pigeons,preference,probabilistic,signals,suboptimal choice}
+    \endentry
+    \entry{Molet2012}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=7ca5375dda07d2c4b7c2115ab98851cb}{%
+           family={Molet},
+           familyi={M\bibinitperiod},
+           given={Mikael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=57e5c19cbffbb03881d52ae62928f05f}{%
+           family={Miller},
+           familyi={M\bibinitperiod},
+           given={Holly\bibnamedelima C.},
+           giveni={H\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=626e7fea33bda27de0faa133b42f0480}{%
+           family={Laude},
+           familyi={L\bibinitperiod},
+           given={Jennifer\bibnamedelima R.},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=39194bbe2560e348a9fa1686fbe8f988}{%
+           family={Kirk},
+           familyi={K\bibinitperiod},
+           given={Chelsea},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5d3dc51aaaceeb38eb609cc37c1fbf79}{%
+           family={Manning},
+           familyi={M\bibinitperiod},
+           given={Brandon},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=eddae54ab1373f6cb6de2b4041189374}{%
+           family={Zentall},
+           familyi={Z\bibinitperiod},
+           given={Thomas\bibnamedelima R.},
+           giveni={T\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{75b087597ea3a9620bebc00435453290}
+      \strng{fullhash}{76d70bcb662581e34fd3e3f3cad9fbaf}
+      \strng{bibnamehash}{76d70bcb662581e34fd3e3f3cad9fbaf}
+      \strng{authorbibnamehash}{76d70bcb662581e34fd3e3f3cad9fbaf}
+      \strng{authornamehash}{75b087597ea3a9620bebc00435453290}
+      \strng{authorfullhash}{76d70bcb662581e34fd3e3f3cad9fbaf}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Consistent with human gambling behavior but contrary to optimal foraging theory, pigeons show a strong preference for an alternative with low probability and high payoff (a gambling-like alternative) over an alternative with a greater net payoff (Zentall {\&} Stagner, Proceedings of the Royal Society B, 278, 1203-1208, 2011). In the present research, we asked whether humans would show suboptimal choice on a task involving choices with probabilities similar to those for pigeons. In Experiment 1, when we selected participants on the basis of their self-reported gambling activities, we found a significantly greater choice of the alternative involving low probability and high payoff (gambling-like alternative) than for a group that reported an absence of gambling activity. In Experiment 2, we found that when the inhibiting abilities of typical humans were impaired by a self-regulatory depletion manipulation, they were more likely to choose the gambling-like alternative. Taken together, the results suggest that this task is suitable for the comparative study of suboptimal decision-making behavior and the mechanisms that underlie it.}
+      \field{isbn}{1543-4494}
+      \field{issn}{1543-4494}
+      \field{journaltitle}{Learning {\&} Behavior}
+      \field{month}{12}
+      \field{number}{4}
+      \field{title}{{Decision making by humans in a behavioral task: Do humans, like pigeons, show suboptimal choice?}}
+      \field{volume}{40}
+      \field{year}{2012}
+      \field{pages}{439\bibrangedash 447}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.3758/s13420-012-0065-7
+      \endverb
+      \verb{file}
+      \verb :home/daniel/.local/share/data/Mendeley Ltd./Mendeley Desktop/Downloaded/Molet et al. - 2012 - Decision making by humans in a behavioral task Do humans, like pigeons, show suboptimal choice.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://www.springerlink.com/index/10.3758/s13420-012-0065-7
+      \endverb
+      \verb{url}
+      \verb http://www.springerlink.com/index/10.3758/s13420-012-0065-7
+      \endverb
+      \keyw{Decision making,Gambling,Humans,Pigeons,Suboptimalchoice}
+    \endentry
+    \entry{Parker1990}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=a8de9f4183fb72e7ae1ee10c336b3d9a}{%
+           family={Parker},
+           familyi={P\bibinitperiod},
+           given={G.\bibnamedelimi A.},
+           giveni={G\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=1,uniquepart=given,hash=b160198f3d05f6e292928980596af3aa}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={J.\bibnamedelimi Maynard},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=1}}%
+      }
+      \strng{namehash}{8ce453c849f8e0b643cab6803348d77a}
+      \strng{fullhash}{8ce453c849f8e0b643cab6803348d77a}
+      \strng{bibnamehash}{8ce453c849f8e0b643cab6803348d77a}
+      \strng{authorbibnamehash}{8ce453c849f8e0b643cab6803348d77a}
+      \strng{authornamehash}{8ce453c849f8e0b643cab6803348d77a}
+      \strng{authorfullhash}{8ce453c849f8e0b643cab6803348d77a}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Optimization models help us to test our insight into the biological constraints that influence the outcome of evolution. They serve to improve our understanding about adaptations, rather than to demonstrate that natural selection produces optimal solutions. {©} 1990 Nature Publishing Group.}
+      \field{issn}{0028-0836}
+      \field{journaltitle}{Nature}
+      \field{month}{11}
+      \field{number}{6296}
+      \field{title}{{Optimality theory in evolutionary biology}}
+      \field{volume}{348}
+      \field{year}{1990}
+      \field{pages}{27\bibrangedash 33}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1038/348027a0
+      \endverb
+      \verb{file}
+      \verb :home/daniel/.local/share/data/Mendeley Ltd./Mendeley Desktop/Downloaded/Parker, Smith - 1990 - Optimality theory in evolutionary biology.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://www.nature.com/articles/348027a0
+      \endverb
+      \verb{url}
+      \verb http://www.nature.com/articles/348027a0
+      \endverb
+    \endentry
+    \entry{Pyke1977}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=42644ed985201a4f467e24c3f30d5244}{%
+           family={Pyke},
+           familyi={P\bibinitperiod},
+           given={G.\bibnamedelimi H.},
+           giveni={G\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b047b6da8044053257d072ba15531ec5}{%
+           family={Pulliam},
+           familyi={P\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=50d6de3f5363432af8de9ed35235cf76}{%
+           family={Charnov},
+           familyi={C\bibinitperiod},
+           given={Eric\bibnamedelima L.},
+           giveni={E\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a1defac4d8634d6dc752bffe40d31c79}
+      \strng{fullhash}{e6a533f15b90a6276af57f9d8ac54ff9}
+      \strng{bibnamehash}{e6a533f15b90a6276af57f9d8ac54ff9}
+      \strng{authorbibnamehash}{e6a533f15b90a6276af57f9d8ac54ff9}
+      \strng{authornamehash}{a1defac4d8634d6dc752bffe40d31c79}
+      \strng{authorfullhash}{e6a533f15b90a6276af57f9d8ac54ff9}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Quarterly Review of Biology}
+      \field{number}{2}
+      \field{title}{{Optimal Foraging Theory: A Selective Review of Theory and Tests}}
+      \field{volume}{52}
+      \field{year}{1977}
+      \field{pages}{137\bibrangedash 154}
+      \range{pages}{18}
+      \verb{file}
+      \verb :home/daniel/.local/share/data/Mendeley Ltd./Mendeley Desktop/Downloaded/Pyke, Pulliam, Charnov - 1977 - Optimal Foraging Theory A Selective Review of Theory and Tests.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.jstor.org/stable/2824020
+      \endverb
+      \verb{url}
+      \verb https://www.jstor.org/stable/2824020
+      \endverb
+    \endentry
+    \entry{Smith2017}{article}{}
+      \name{author}{3}{}{%
+        {{un=1,uniquepart=given,hash=df7848b895a9481f39c70890f9caae2f}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={Travis\bibnamedelima R.},
+           giveni={T\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=4018b82c5f0bb5c830a79bdad0493cd9}{%
+           family={Beran},
+           familyi={B\bibinitperiod},
+           given={Michael\bibnamedelima J.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6497bda609e9ba3fd89cf26cea959692}{%
+           family={Young},
+           familyi={Y\bibinitperiod},
+           given={Michael\bibnamedelima E.},
+           giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1ab1beb99701926e6e4a15f8d0a7d5a5}
+      \strng{fullhash}{7983a990dd83ca683eefe5a4b80e77eb}
+      \strng{bibnamehash}{7983a990dd83ca683eefe5a4b80e77eb}
+      \strng{authorbibnamehash}{7983a990dd83ca683eefe5a4b80e77eb}
+      \strng{authornamehash}{1ab1beb99701926e6e4a15f8d0a7d5a5}
+      \strng{authorfullhash}{7983a990dd83ca683eefe5a4b80e77eb}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprinttype}{arXiv}
+      \field{isbn}{9780128011058}
+      \field{issn}{1543-4494}
+      \field{journaltitle}{Learning {\&} Behavior}
+      \field{month}{9}
+      \field{number}{3}
+      \field{title}{{Gambling in rhesus macaques (Macaca mulatta): The effect of cues signaling risky choice outcomes}}
+      \field{volume}{45}
+      \field{year}{2017}
+      \field{pages}{288\bibrangedash 299}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.3758/s13420-017-0270-5
+      \endverb
+      \verb{eprint}
+      \verb 15334406
+      \endverb
+      \verb{file}
+      \verb :home/daniel/.local/share/data/Mendeley Ltd./Mendeley Desktop/Downloaded/Smith, Beran, Young - 2017 - Gambling in rhesus macaques (Macaca mulatta) The effect of cues signaling risky choice outcomes.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://link.springer.com/10.3758/s13420-017-0270-5
+      \endverb
+      \verb{url}
+      \verb http://link.springer.com/10.3758/s13420-017-0270-5
+      \endverb
+      \keyw{677 huntington ave,914-826-4477,behavioral sciences,boston,chan school of,correspondence and reprint requests,department of social,edu,epidemiology,eric s,eskim,exercise,h,harvard,harvard t,health psychology,hsph,kim,ma 02115,phone,physical activity,psychological well-being,public health,to,usa}
+    \endentry
+    \entry{Trujano2016}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=a298fdf69acabf07fecddf14750a531b}{%
+           family={Trujano},
+           familyi={T\bibinitperiod},
+           given={R.\bibnamedelimi Emmanuel},
+           giveni={R\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f413e66ee51528106a8c0fcac610d2c7}{%
+           family={López},
+           familyi={L\bibinitperiod},
+           given={Paulina},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=901eba953507c0adfc08274a18a4463c}{%
+           family={Rojas-Leguizamón},
+           familyi={R\bibinithyphendelim L\bibinitperiod},
+           given={Maryed},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=961e78d2865b9e343fe640cf2d6514c6}{%
+           family={Orduña},
+           familyi={O\bibinitperiod},
+           given={Vladimir},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c2b86d628878ed7d672f81c2ada1eb83}
+      \strng{fullhash}{9846765210080e2370f3601b3624339f}
+      \strng{bibnamehash}{9846765210080e2370f3601b3624339f}
+      \strng{authorbibnamehash}{9846765210080e2370f3601b3624339f}
+      \strng{authornamehash}{c2b86d628878ed7d672f81c2ada1eb83}
+      \strng{authorfullhash}{9846765210080e2370f3601b3624339f}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{When given a choice between an alternative with a low probability of reinforcement and discriminative stimuli, and another with a higher probability of reinforcement and non-discriminative stimuli, pigeons show a clear preference for the former but rats clearly prefer the later. It has been reported that pigeon's suboptimal choice is associated to a diminishing effect of the stimulus correlated with non-reinforcement. In the present paper, we explored the possibility that rats' optimal choice is more strongly influenced than pigeons' by the stimulus associated to non-reinforcement and that the effects of it do not dissipate during training. We trained rats to choose between an alternative with 0.50 probability of reinforcement and discriminative stimuli, and an alternative with 0.75 probability of reinforcement and non-discriminative stimuli. We replicated the strong preference for the optimal alternative. Then, after several sessions of training, we presented summation trials in which both the stimulus associated to reinforcement and the stimulus associated to non-reinforcement were simultaneously presented. The results showed that the stimulus associated to non-reinforcement exerted a strong effect on choice, and, more importantly, that it did not seem to dissipate across training. These results suggest that the strong difference found between pigeons and rats in the suboptimal choice procedure is potentially related to differences in the impact of conditioned inhibitors.}
+      \field{issn}{03766357}
+      \field{journaltitle}{Behavioural Processes}
+      \field{month}{9}
+      \field{title}{{Optimal behavior by rats in a choice task is associated to a persistent conditioned inhibition effect}}
+      \field{volume}{130}
+      \field{year}{2016}
+      \field{pages}{65\bibrangedash 70}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1016/j.beproc.2016.07.005
+      \endverb
+      \verb{file}
+      \verb :home/daniel/.local/share/data/Mendeley Ltd./Mendeley Desktop/Downloaded/Trujano et al. - 2016 - Optimal behavior by rats in a choice task is associated to a persistent conditioned inhibition effect.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0376635716301589
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0376635716301589
+      \endverb
+      \keyw{Choice,Comparative cognition,Conditioned inhibition,Observing behavior,Rats,Suboptimal choice}
+    \endentry
+    \entry{Trujano2015}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=a298fdf69acabf07fecddf14750a531b}{%
+           family={Trujano},
+           familyi={T\bibinitperiod},
+           given={R.\bibnamedelimi Emmanuel},
+           giveni={R\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=961e78d2865b9e343fe640cf2d6514c6}{%
+           family={Orduña},
+           familyi={O\bibinitperiod},
+           given={Vladimir},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{71b53a20ec413911f412e4b2a6aad945}
+      \strng{fullhash}{71b53a20ec413911f412e4b2a6aad945}
+      \strng{bibnamehash}{71b53a20ec413911f412e4b2a6aad945}
+      \strng{authorbibnamehash}{71b53a20ec413911f412e4b2a6aad945}
+      \strng{authornamehash}{71b53a20ec413911f412e4b2a6aad945}
+      \strng{authorfullhash}{71b53a20ec413911f412e4b2a6aad945}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In an extensive list of studies, it has been found that pigeons prefer an alternative associated with discriminative stimuli over another associated with non-discriminative stimuli, even when the probability of reinforcement is higher in the latter. This behavior has been named "suboptimal choice". In the present experiment, we evaluated whether rats, another widely studied species within the Experimental Analysis of Behavior, also shows this behavior. We systematically replicated the procedure employed with pigeons, and found that rats are not suboptimal, i.e., they prefer the non-discriminative alternative associated with .5 probability of reinforcement, over the discriminative alternative associated with .2 probability of reinforcement. This effect occurred even though rats discriminated the contingencies of reinforcement associated with each stimulus, suggesting that rats' optimal choice was driven by the overall probability of reinforcement of each alternative. Different procedural details are offered as possibilities for explaining this apparent inter-species difference.}
+      \field{isbn}{5559504289}
+      \field{issn}{03766357}
+      \field{journaltitle}{Behavioural Processes}
+      \field{month}{10}
+      \field{title}{{Rats are optimal in a choice task in which pigeons are not}}
+      \field{volume}{119}
+      \field{year}{2015}
+      \field{pages}{22\bibrangedash 27}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1016/j.beproc.2015.07.010
+      \endverb
+      \verb{file}
+      \verb :home/daniel/.local/share/data/Mendeley Ltd./Mendeley Desktop/Downloaded/Trujano, Ordu{\~{n}}a - 2015 - Rats are optimal in a choice task in which pigeons are not.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0376635715300127
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0376635715300127
+      \endverb
+      \keyw{Comparative cognition,Observing behavior,Rats,Suboptimal choice}
+    \endentry
+    \entry{Vanderveldt2016}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=f6b2cfc32c10f998cf7e4c87c67bc50c}{%
+           family={Vanderveldt},
+           familyi={V\bibinitperiod},
+           given={Ariana},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=167596fbe4ba08b2afab4252c31011e5}{%
+           family={Oliveira},
+           familyi={O\bibinitperiod},
+           given={Luís},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c2f3f0e24c16d43b6dbbcd25e1dfd84d}{%
+           family={Green},
+           familyi={G\bibinitperiod},
+           given={Leonard},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e0d473d916521d831348f2e2c5dfd30c}
+      \strng{fullhash}{5a086d1decc150e53a2a4b9b52c99eb4}
+      \strng{bibnamehash}{5a086d1decc150e53a2a4b9b52c99eb4}
+      \strng{authorbibnamehash}{5a086d1decc150e53a2a4b9b52c99eb4}
+      \strng{authornamehash}{e0d473d916521d831348f2e2c5dfd30c}
+      \strng{authorfullhash}{5a086d1decc150e53a2a4b9b52c99eb4}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Delay discounting refers to the decrease in subjective value of an outcome as the time to its receipt increases. Across species and situations, animals discount delayed rewards, and their discounting is well-described by a hyperboloid function. The current review begins with a comparison of discounting models and the procedures used to assess delay discounting in nonhuman animals. We next discuss the generality of discounting, reviewing the effects of different variables on the degree of discounting delayed reinforcers by nonhuman animals. Despite the many similarities in discounting observed between human and nonhuman animals, several differences have been proposed (e.g., the magnitude effect; nonhuman animals discount over a matter of seconds whereas humans report willing to wait months, if not years before receiving a reward), raising the possibility of fundamental species differences in intertemporal choice. After evaluating these differences, we discuss delay discounting from an adaptationist perspective. The pervasiveness of discounting across species and situations suggests it is a fundamental process underlying decision making.}
+      \field{issn}{23298464}
+      \field{journaltitle}{Journal of Experimental Psychology: Animal Learning and Cognition}
+      \field{number}{2}
+      \field{title}{{Delay discounting: Pigeon, rat, human-does it matter?}}
+      \field{volume}{42}
+      \field{year}{2016}
+      \field{pages}{141\bibrangedash 162}
+      \range{pages}{22}
+      \verb{doi}
+      \verb 10.1037/xan0000097
+      \endverb
+      \verb{file}
+      \verb :home/daniel/.local/share/data/Mendeley Ltd./Mendeley Desktop/Downloaded/Vanderveldt, Oliveira, Green - 2016 - Delay discounting Pigeon, rat, human-does it matter.pdf:pdf
+      \endverb
+      \keyw{Animal,Delay discounting,Human,Hyperbolic,Magnitude effect}
+    \endentry
+    \entry{Vasconcelos2015}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=87adfa3e3fc7efd4d33bb45ab1799a33}{%
+           family={Vasconcelos},
+           familyi={V\bibinitperiod},
+           given={Marco},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a798c21187614b9d7657a3877c471f98}{%
+           family={Monteiro},
+           familyi={M\bibinitperiod},
+           given={Tiago},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=081d5acba9ed73f6f04c73d89eb788ab}{%
+           family={Kacelnik},
+           familyi={K\bibinitperiod},
+           given={Alex},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{44d6dcf8d9685dacde19152a7b640c65}
+      \strng{fullhash}{4881e0efa61f1922736edf43e1dd5e7b}
+      \strng{bibnamehash}{4881e0efa61f1922736edf43e1dd5e7b}
+      \strng{authorbibnamehash}{4881e0efa61f1922736edf43e1dd5e7b}
+      \strng{authornamehash}{44d6dcf8d9685dacde19152a7b640c65}
+      \strng{authorfullhash}{4881e0efa61f1922736edf43e1dd5e7b}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Irrational decision making in humans and other species challenges the use of optimality in behavioural biology. Here we show that such observations are in fact powerful tools to understand the adaptive significance of behavioural mechanisms. We presented starlings choices between probabilistic alternatives, receiving or not information about forthcoming, delayed outcomes after their choices. Subjects could not use this information to alter the outcomes. Paradoxically, outcome information induced loss-causing preference for the lower probability option. The effect depended on time under uncertainty: information given just after each choice caused strong preference for lower probability, but information just before the outcome did not. A foraging analysis shows that these preferences would maximize gains if post-choice information were usable, as when predators abandon a chase when sure of the prey escaping. Our study illustrates how experimentally induced irrational behaviour supports rather than weakens the evolutionary optimality approach to animal behaviour.}
+      \field{issn}{2045-2322}
+      \field{journaltitle}{Scientific Reports}
+      \field{month}{11}
+      \field{number}{1}
+      \field{title}{{Irrational choice and the value of information}}
+      \field{volume}{5}
+      \field{year}{2015}
+      \field{pages}{13874}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1038/srep13874
+      \endverb
+      \verb{file}
+      \verb :home/daniel/.local/share/data/Mendeley Ltd./Mendeley Desktop/Downloaded/Vasconcelos, Monteiro, Kacelnik - 2015 - Irrational choice and the value of information.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.1038/srep13874 http://www.nature.com/articles/srep13874
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1038/srep13874%20http://www.nature.com/articles/srep13874
+      \endverb
+    \endentry
+    \entry{Zentall2011a}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=eddae54ab1373f6cb6de2b4041189374}{%
+           family={Zentall},
+           familyi={Z\bibinitperiod},
+           given={Thomas\bibnamedelima R.},
+           giveni={T\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{eddae54ab1373f6cb6de2b4041189374}
+      \strng{fullhash}{eddae54ab1373f6cb6de2b4041189374}
+      \strng{bibnamehash}{eddae54ab1373f6cb6de2b4041189374}
+      \strng{authorbibnamehash}{eddae54ab1373f6cb6de2b4041189374}
+      \strng{authornamehash}{eddae54ab1373f6cb6de2b4041189374}
+      \strng{authorfullhash}{eddae54ab1373f6cb6de2b4041189374}
+      \field{extraname}{1}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{When humans buy a lottery ticket or gamble at a casino they are engaging in an activity that on average leads to a loss of money. Although animals are purported to engage in optimal foraging behavior, similar sub-optimal behavior can be found in pigeons. They show a preference for an alternative that is associated with a low probability of reinforcement (e.g., one that is followed by a red hue on 20{\%} of the trials and then reinforcement or by a green hue on 80{\%} of the trials and then the absence of reinforcement) over an alternative that is associated with a higher probability of reinforcement (e.g., blue or yellow each of which is followed by reinforcement 50{\%} of the time). This effect appears to result from the strong conditioned reinforcement associated with the stimulus that is always followed by reinforcement. Surprisingly, although it is experienced four times as much, the stimulus that is never followed by reinforcement does not appear to result in significant conditioned inhibition (perhaps due to the absence of observing behavior). Similarly, human gamblers tend to overvalue wins and undervalue losses. Thus, this animal model may provide a useful analog to human gambling behavior, one that is free from the influence of human culture, language, social reinforcement, and other experiential biases that may influence human gambling behavior. {©} 2011 Elsevier B.V.}
+      \field{eprinttype}{arXiv}
+      \field{isbn}{1872-8308 (Electronic)$\backslash$r0376-6357 (Linking)}
+      \field{issn}{03766357}
+      \field{journaltitle}{Behavioural Processes}
+      \field{month}{5}
+      \field{number}{1}
+      \field{title}{{Maladaptive “gambling” by Pigeons}}
+      \field{volume}{87}
+      \field{year}{2011}
+      \field{pages}{50\bibrangedash 56}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1016/j.beproc.2010.12.017
+      \endverb
+      \verb{eprint}
+      \verb NIHMS150003
+      \endverb
+      \verb{file}
+      \verb :home/daniel/.local/share/data/Mendeley Ltd./Mendeley Desktop/Downloaded/Zentall - 2011 - Maladaptive “gambling” by Pigeons.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0376635711000064
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0376635711000064
+      \endverb
+      \keyw{Choice behavior,Conditioned reinforcer,Discriminative stimuli,Gambling,Humans,Inhibition,Pigeons}
+    \endentry
+    \entry{Zentall2016}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=eddae54ab1373f6cb6de2b4041189374}{%
+           family={Zentall},
+           familyi={Z\bibinitperiod},
+           given={Thomas\bibnamedelima R.},
+           giveni={T\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{eddae54ab1373f6cb6de2b4041189374}
+      \strng{fullhash}{eddae54ab1373f6cb6de2b4041189374}
+      \strng{bibnamehash}{eddae54ab1373f6cb6de2b4041189374}
+      \strng{authorbibnamehash}{eddae54ab1373f6cb6de2b4041189374}
+      \strng{authornamehash}{eddae54ab1373f6cb6de2b4041189374}
+      \strng{authorfullhash}{eddae54ab1373f6cb6de2b4041189374}
+      \field{extraname}{2}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{When humans engage in commercial (totally probabilistic) gambling they are making suboptimal choices because the return is generally less than the investment. This review (a) examines the literature on pigeon suboptimal choice, (b) describes the conditions under which it occurs, (c) identifies the mechanisms that appear to be responsible for the effect, and (d) suggests that similar processes may be able to account for analogous suboptimal choice when humans engage in commercial gambling. Pigeons show suboptimal choice when they choose between 1 alternative that 20{\%} of the time provides them with a signal that they will always get fed or 80{\%} of the time with a signal that they will not get fed (overall 20{\%} reinforcement) and a second alternative that 100{\%} of the time provides them with a signal that they will get fed 50{\%} of the time (overall 50{\%} reinforcement). The pigeons' strong preference for the suboptimal choice was investigated in a series of experiments that found the preference for the suboptimal alternative was determined by the value of the signal that predicted reinforcement, rather its frequency and that the frequency of the signal that predicted nonreinforcement had little effect on the suboptimal choice. Paradoxically, this account makes the prediction that pigeons will be indifferent between an alternative that 50{\%} of the time provides a fully predictive stimulus for reinforcement and an alternative that 100{\%} of the time provides a fully predictive stimulus for reinforcement. The similarities and differences of this suboptimal choice task to human gambling are discussed.}
+      \field{issn}{2329-8464}
+      \field{journaltitle}{Journal of Experimental Psychology: Animal Learning and Cognition}
+      \field{number}{1}
+      \field{title}{{Resolving the paradox of suboptimal choice.}}
+      \field{volume}{42}
+      \field{year}{2016}
+      \field{pages}{1\bibrangedash 14}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1037/xan0000085
+      \endverb
+      \verb{file}
+      \verb :home/daniel/.local/share/data/Mendeley Ltd./Mendeley Desktop/Downloaded/Zentall - 2016 - Resolving the paradox of suboptimal choice.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.1037/xan0000085{\%}5Cnhttp:// http://doi.apa.org/getdoi.cfm?doi=10.1037/xan0000085
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1037/xan0000085%7B%5C%%7D5Cnhttp://%20http://doi.apa.org/getdoi.cfm?doi=10.1037/xan0000085
+      \endverb
+      \keyw{conditioned reinforcer,decision making,gambling,pigeons,suboptimal choice}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

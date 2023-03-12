@@ -1,0 +1,228 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[spanish]{babel}
+\usepackage{csquotes}
+\usepackage{anysize}
+\usepackage{graphicx}
+%\usepackage{amsfonts}
+%\usepackage{tikz}
+%\usepackage{amsmath}
+\marginsize{25mm}{25mm}{25mm}{25mm}
+\usepackage[colorlinks, citecolor=cyan]{hyperref}
+\renewcommand{\refname}{Referencias}
+\usepackage[backend=biber,style=apa]{biblatex}
+\addbibresource{~/Documents/Doctorado/library.bib}
+\linespread{1.25}
+
+\title{Efecto de la utilidad de la información sobre la preferencia de ratas en el procedimiento de elección subóptima}
+\author{Daniel Maldonado}
+\date{2023}
+
+\begin{document}
+{\scshape\bfseries \maketitle}
+
+\section{\scshape Antecedentes}\label{antecedentes}
+
+En la naturaleza los organismos se encuentran regularmente con situaciones de incertidumbre en las cuales deben elegir entre alternativas distintas sin tener información completa sobre sus consecuencias.
+Las teorías normativas de elección anticipan que, dada suficiente experiencia, los organismos se decantarán por las alternativas más favorables, es decir, las que permitan maximizar beneficios y minimizar costos bajo las restricciones del entorno y fisiología (\cite{Pyke1977}).
+
+A pesar de que existen diversos ejemplos de organismos que se comportan de acuerdo con esta predicción de maximización ({\itshape e.g.}, \cite{Harper1982, Bshary2002}), cuando se busca el entendimiento de los fenómenos naturales, las excepciones suelen ser más informativas que los ejemplos que se ajustan a la regla.
+
+Si bien, múltiples modelos basados en la teoría de optimalidad han tenido éxito en describir y predecir la conducta de los organismos, es importante resaltar que esta teoría no pretende demostrar que los comportamientos encontrados en la actualidad, por ser producto de la selección natural, son ``óptimos'' en el sentido de que resuelven de la mejor manera todo posible problema planteado por el ambiente (\cite{Parker1990}).
+Aunque estos modelos se derivan del supuesto de que la selección natural ha actuado sobre los mecanismos de toma de decisiones, debe reconocerse que no por ello éstos deben estar perfectamente adaptados para responder a las demandas ambientales en tanto que los ambientes son cambiantes y los organismos son a menudo evaluados en condiciones distintas de aquellas en las cuales evolucionaron.
+La teoría de optimalidad se trata más bien de un marco de referencia general sobre el cual se pueden construir modelos con base en los cuales es posible hacer predicciones (\cite{Vasconcelos2015}).
+El contraste de las hipótesis basadas en estas predicciones es finalmente lo que permite avanzar el entendimiento de los mecanismos de toma de decisiones, pues la comparación entre los resultados esperados dado un ambiente natural y los obtenidos en uno de laboratorio permite la identificación de variables específicas asociadas con las desviaciones de la optimalidad.
+En este sentido, la evidencia de situaciones particulares en las cuales los organismos se alejen de la predicción de la maximización apoya en lugar de desacreditar al uso de la teoría de optimalidad, y funciona como una herramienta para entender la significancia adaptativa de los mecanismos de elección observados.
+Los aparentes ``fallos'' de las teorías de optimalidad para describir la conducta resaltan el hecho de que los animales no necesitan comportarse de manera ``óptima'' en toda situación, ni los investigadores esperan que así sea.
+Estas desviaciones sirven como pruebas críticas para determinar qué es importante para la toma de decisiones de los animales en su entorno natural.
+
+Así, existen reportes en la literatura sobre situaciones específicas en las cuales los organismos se separan de la predicción de maximización.
+Por ejemplo, cuando se da a los organismos a escoger entre alternativas cuyas recompensas varían en más de una dimensión ({\itshape e.g.}, magnitud, demora, calidad, o certidumbre), es usual que hagan elecciones que catalogaríamos como ``irracionales'', pues se alejan de la maximización de recursos por unidad de tiempo.
+En el procedimiento de descuento temporal, por ejemplo, los organismos escogen recompensas pequeñas por encima de recompensas grandes si estas últimas se encuentran demoradas (\cite{Vanderveldt2016}); y en descuento probabilístico escogen de manera similar si las recompensas grandes son improbables (\cite{Green2014}), a pesar de que escoger las recompensas grandes resulte en más ganancias a largo plazo.
+
+Un resultado similar, es decir, preferencia por alternativas que alejan de la maximización de recursos, se ha encontrado al utilizar el procedimiento de elección subóptima, basado en los resultados iniciales de Kendall (\citeyear{Kendall1974,Kendall1985}). Este procedimiento ha permitido mostrar preferencia por alternativas de baja densidad de reforzamiento por encima de alternativas de mayor densidad relativa, siempre que las primeras tengan estímulos discriminativos asociados que indiquen anticipadamente la consecuencia final de un ensayo (reforzamiento u omisión).
+
+El procedimiento tiene la siguiente forma: a un organismo se le presentan dos alternativas representadas por dos operandos (por ejemplo, dos teclas presentadas a una paloma).
+Responder en una tecla---etiquetada como ``discriminativa'' o ``informativa''---lleva el 50\% de las ocasiones a su encendido en un color A seguido tras una demora de la entrega de comida, y el 50\% restante a su encendido en un color B seguido tras una demora del intervalo entre ensayos, es decir, omisión de reforzamiento.
+Responder en la otra tecla---``no-discriminativa'' o ``no-informativa''---lleva con las mismas probabilidades (50\%) a su encendido en los mismos colores, pero en este caso ambos estímulos están asociados con la entrega de comida tras una demora con probabilidad del 75\%.
+Es decir, la alternativa discriminativa tiene una probabilidad global de reforzamiento de 50\%; la no-discriminativa, de 75\% (Figura 1).
+
+\begin{figure}[!ht]
+        \begin{center}
+                \includegraphics[scale=1.3]{../EstadoArte/Figures/gipson2009.pdf}
+                \caption{Procedimiento de Gipson {\itshape et al} (\cite{Gipson2009}).}
+        \end{center}
+\end{figure}
+
+En estas condiciones, se ha encontrado que las palomas (\cite{Zentall2011a}), los macacos (\cite{Smith2017}), los estorninos (\cite{Vasconcelos2015}) y, en cierto grado, los humanos (\cite{Molet2012}) prefieren consistentemente la alternativa con menor densidad de reforzamiento pero con estímulos discriminativos asociados, lo que ha sido interpretado como evidencia de comportamiento maladaptativo.
+
+Buscando generalidad entre especies, ratas fueron evaluadas en una adaptación del procedimiento y resultados contradictorios fueron encontrados: las ratas, a diferencia de las otras especies hasta entonces evaluadas, prefieren consistentemente la alternativa no-discriminativa (\cite{Trujano2015}), lo que las acerca a la maximización de recursos.
+Este resultado fue inicialmente disputado apelando a una diferencia procedimental, específicamente, a las ratas se les presentaron, igual que a las palomas, luces de colores como estímulos discriminativos.
+Sin embargo, cada especie parece tener una relación distinta con los estímulos: en tanto que se ha observado que para las palomas tienen una alta {\itshape saliencia incentiva}, no es así para las ratas. Chow y col. (\citeyear{Chow2017}) atribuyeron a esta diferencia la preferencia distinta mostrada por las ratas, y en un experimento que sustituyó a las luces por palancas---que, se ha propuesto, tienen un grado de {\itshape valor incentivo} para las ratas comparable al que tienen las luces para las palomas---encontraron preferencia por la alternativa discriminativa. Sin embargo, el procedimiento de Chow no solo cambió la modalidad de los estímulos, sino que eliminó al estímulo inhibidor condicionado sustituyéndolo con un {\itshape blackout}. Previamente se había mostrado que, aunque el efecto del inhibidor es transitorio en palomas (\cite{Laude2014a}), persiste indefinidamente en ratas (\cite{Trujano2016}), por lo que su eliminación no es trivial en ellas. Al regresar al inhibidor condicionado al procedimiento preservando a las palancas como estímulos se encontró nuevamente preferencia por la alternativa no-discriminativa en ratas, lo que asentó la existencia de una diferencia entre especies.
+
+Se han propuesto distintas explicaciones para el comportamiento de elección subóptima. Las primeras, al haber sido planteadas antes de los primeros resultados de ratas, solo tenían en cuenta la preferencia por la alternativa discriminativa. En este grupo de explicaciones están la hipótesis del contraste (\cite{Zentall2016}), la hipótesis de {\itshape Signals for Good News} (\cite{McDevitt2016}), y el modelo ecológico. Éste último se cimenta en la presunción de la teoría de forrajeo óptimo que indica que la adecuación a largo plazo de los organismos a su entorno es bien capturada por su tasa de ingesta.
+
+
+
+% Esta línea fue retomada por varios grupos de investigación.
+% Inicialmente, el interés se centró en la manipulación de las variables temporales asociadas con el procedimiento, es decir, la duración de los eslabones iniciales y terminales, y la razón que hay entre ellos. 
+
+% Los hallazgos principales en estas primeras investigaciones indican que la preferencia por la alternativa con baja densidad de reforzamiento es dependiente (1) de la condición de señalización ({\itshape i.e.}, la función discriminativa de los estímulos de los eslabones terminales), y (2) de la longitud de los eslabones iniciales y terminales, es decir, eslabones iniciales cortos y terminales largos incrementan la probabilidad de elegir la alternativa de baja densidad de reforzamiento(\cite{Spetch1987,Dunn1990,Spetch1990,Spetch1994,Belke1994}).
+% Resultados similares fueron encontrados en una variación de la tarea utilizando un procedimiento de ajuste de demora (\cite{Mazur1991}).
+
+% Más adelante, otros grupos de investigación (\cite{Gipson2009,Trujano2016}) retomaron y extendieron estos hallazgos en busca de una explicación para la conducta de elección subóptima, dándole al procedimiento su forma actual.
+% En el procedimiento estándar se presentan a un organismo dos alternativas llamadas {\slshape discriminativa/subóptima} y {\slshape no discriminativa/óptima}.
+% Una respuesta en la alternativa discriminativa puede llevar al encendido de un estímulo A, seguido tras una demora de la entrega confiable de un reforzador; o al encendido de un estímulo B, seguido tras la misma demora de el intervalo entre ensayos.
+% Una respuesta en la alternativa no discriminativa puede llevar a los estímulos C y D, ambos seguidos de la entrega probabilística de un reforzador.
+% La alternativa discriminativa es subóptima en tanto que su probabilidad global de reforzamiento es menor que la probabilidad de la alternativa no discriminativa ({\itshape e.g.,} .5 vs .75; {\itshape Figura 2}).
+
+% % \begin{figure}
+% % \begin{center}
+% % \includegraphics[scale=0.35]{gipson.png}
+% % \caption{Procedimiento de Gipson y col. (\citeyear{Gipson2009})}
+% % \end{center}
+% % \end{figure}
+
+% Variables como el nivel de privación de alimento (\cite{Laude2012}), el enriquecimiento ambiental (\cite{Pattison2013}), y las diferencias individuales en impulsividad (\cite{Laude2014a}) han sido evaluadas; y los resultados originales, es decir, la preferencia de las palomas por la alternativa con menor densidad de reforzamiento, han sido ampliamente replicados ({\itshape e.g.,} \cite{Zentall2011a,Stagner2011}). 
+
+% Una de las primeras explicaciones propuestas para la conducta de elección subóptima fue la hipótesis del contraste (\cite{Zentall2016}).
+% De acuerdo con esta propuesta, un efecto de {\itshape contraste positivo} sería el responsable de sesgar la elección de los sujetos hacia la alternativa discriminativa.
+% En esta alternativa, dada la presencia de estímulos que señalan diferencialmente la entrega u omisión de comida, la expectativa de recepción de reforzamiento cambia entre el momento de la elección y el momento de la presentación del estímulo del eslabón terminal.
+% Suponiendo una probabilidad global de reforzamiento de .2 para la alternativa discriminativa, la expectativa de reforzamiento en el momento en que la alternativa se elije es también de .2; sin embargo, cuando se presenta el estímulo que predice confiablemente la entrega de reforzamiento la expectativa salta súbitamente a 1---un cambio positivo de .8. Este contraste súbito potencia el valor de la alternativa completa y dirige la elección hacia ella.
+% En cambio, dado que los estímulos de la alternativa no discriminativa no señalan diferencialmente la entrega de reforzamiento su presentación no genera ningún cambio en la expectativa de reforzamiento, por lo que no existe el mismo efecto potenciador.
+% Esta discrepancia entre las alternativas es, de acuerdo con esta hipótesis, lo que determina la preferencia de las palomas.
+
+% Sin embargo, no es claro por qué el cambio de expectativa de reforzamiento de .2 a 0 en el momento en que se presenta el estímulo que predice la omisión de reforzamiento (el cual ocurre cuatro veces más que el predictor de reforzamiento) no genera un efecto de {\itshape contraste negativo} que disminuya el valor de la alternativa completa.
+
+% Una explicación distinta proviene de un énfasis no en el estímulo predictor de reforzamiento, sino en el inhibidor condicionado: la presencia de un estímulo que predice confiablemente la omisión de reforzamiento debería reducir el valor de la alternativa discriminativa, y a pesar de ello ésta es preferida.
+% Esta propuesta sugiere que el efecto aversivo del inhibidor condicionado se ve mermado de alguna manera.
+% Una aproximación inicial indica que las palomas podrían alejarse físicamente del estímulo (una tecla encendida) dándose vuelta dentro de la caja experimental, lo que tendría como resultado una menor exposición a él y por lo tanto una disminución en sus propiedades inhibitorias.
+% Como experimento crítico para descartar esta posibilidad Stagner y col. (\citeyear{Stagner2011}) sustituyeron las teclas iluminadas con estímulos ambientales difusos e inescapables, de modo que su efecto no pudiese ser evitado.
+% Aun en estas condiciones la preferencia subóptima de las palomas persistió.
+% Sin embargo, la explicación de la inhibición condicionada es apoyada por un resultado posterior en el cual, mediante una prueba de sumación, se determinó que el efecto inhibitorio del estímulo predictor de omisión de reforzamiento se disipa rápidamente durante el entrenamiento en elección subóptima, de modo que su efecto está presente al comienzo, cuando la elección de las palomas es óptima, pero no al final, cuando es subóptima (\cite{Laude2014a}).
+% Esto es indicativo de que el efecto de la inhibición condicionada podría estar relacionado con la conducta de elección subóptima.
+
+% Buscando generalidad entre especies, el procedimiento de elección subóptima ha sido llevado a estorninos (\cite{Vasconcelos2015}), humanos (\cite{Molet2012}), y macacos (\cite{Blanchard2015,Smith2017}), y se han encontrado resultados similares, es decir, una preferencia general por la alternativa discriminativa. Sin embargo, al evaluar a ratas, que junto con las palomas son las especies más utilizadas en el análisis de la conducta, se encontraron resultados contradictorios.
+
+% \section{\scshape Una diferencia entre especies}
+
+% Trujano y Orduña (\citeyear{Trujano2015}) evaluaron a ratas en una adaptación de la tarea de elección subóptima en la cual luces de distintos colores funcionaron como estímulos discriminativos, y las alternativas ofrecieron probabilidades de reforzamiento de .2 y .5 ({\itshape figura 3}). De manera contraria a las palomas y otras especies hasta entonces evaluadas, las ratas respondieron mayoritariamente en la alternativa con la mayor tasa de reforzamiento, acercándose a la maximización.
+
+% % \begin{figure}
+% % \begin{center}
+% % \includegraphics[scale=0.35]{trujano.png}
+% % \caption{Procedimiento de Trujano y Orduña (\citeyear{Trujano2015})}
+% % \end{center}
+% % \end{figure}
+
+% Esta discrepancia en los resultados generó interés inmediato en parte debido a que el procedimiento de elección subóptima había sido propuesto como un posible modelo animal para la conducta humana de juego patológico (\cite{Zentall2011a,Zentall2011b}), de modo que identificar las variables responsables de la presencia del fenómeno en una especie pero su ausencia en otra podría indicar potenciales causas de la conducta humana.
+
+% Los resultados de Trujano y Orduña (\citeyear{Trujano2015}) fueron inicialmente disputados.  Chow y col. (\citeyear{Chow2017}) propusieron que la diferencia encontrada entre las especies era debida a un artefacto del procedimiento: argumentaron que a los estímulos luminosos les es atribuida una gran {\itshape saliencia incentiva} por parte de las palomas, pero no de las ratas ({\itshape cf.}, \cite{Brown1968,Cleland1983}).
+
+% La saliencia incentiva hace referencia a la capacidad que tienen ciertos estímulos para evocar estados motivacionales que van más allá de los que serían esperados únicamente por condicionamiento pavloviano, con lo que además de producir respuestas condicionadas, se vuelven atractivos por sí mismos (\cite{Lovic2011}). Los {\itshape estímulos incentivos} tienen la capacidad de (1) atraer la conducta hacia sí, (2) funcionar como reforzadores secundarios, y (3) evocar estados emocionales y motivacionales complejos relacionados con la entrega del estímulo incondicionado con el que fueron pareados (Robinson y col., 2018, en \cite{Gonzalez-Torres2020}).
+
+% Chow y col. (\citeyear{Chow2017}) evaluaron a ratas en una adaptación de la tarea de Trujano y Orduña (\citeyear{Trujano2015}) en la que sustituyeron a las luces de colores por palancas retráctiles como estímulos discriminativos durante el eslabón terminal de la cadena. Se ha propuesto que las palancas producen un mayor grado de atribución de saliencia incentiva para las ratas que las luces dada la tendencia que tienen a producir seguimiento de señales en ellas ({\itshape e.g.}, \cite{Chang2014}) de modo que con esta manipulación se esperaría que las ratas, ahora en una condición más comparable a las palomas, se comportasen de manera subóptima. Aunque los resultados apoyaron esta hipótesis y las ratas escogieron en mayor medida la alternativa subóptima, una observación clave fue hecha por Martínez y col. (\citeyear{Martinez2017}): el procedimiento de Chow y col. (\citeyear{Chow2017}) además de cambiar la modalidad de los estímulos, omitía la presencia del estímulo asociado con la ausencia de reforzamiento en la alternativa subóptima ({\itshape i.e.,} el inhibidor condicionado). Resultados previos sugerían que el efecto de un inhibidor condicionado en este procedimiento, si bien se ve disminuído rápidamente en el caso de las palomas (\cite{Laude2014a}), persiste indefinidamente en el caso de las ratas (\cite{Trujano2016}). Así, su exclusión no es justificable cuando las ratas son evaluadas. Cuando el inhibidor condicionado fue incluído nuevamente en la tarea, la preferencia de las ratas regresó a la optimalidad (\cite{Martinez2017}), asentando la existencia de una discrepancia entre los resultados de ratas y palomas.
+
+% Se han reportado diferencias individuales en el grado en el que las ratas atribuyen valor incentivo a los estímulos: al ser evaluadas en el procedimiento de {\itshape Pavlovian Conditioned Approach} (PCA), solamente  el 35\% de las ratas muestra conducta de seguimiento de señales ({\itshape sign-tracking,} \cite{Meyer2012}), lo que se toma como evidencia de un alto grado de atribución de valor incentivo. Mientras, 30\% más de las ratas muestra predominantemente conducta de seguimiento de objetivos ({\itshape goal-tracking}), y el resto es indiferente. Para descartar la posibilidad de que la subpoblación {\itshape sign-tracker} estuviese sobrerrepresentada en el experimento de Martínez y col. (\citeyear{Martinez2017}), López y col. (\citeyear{Lopez2018}) evaluaron a ratas ya categorizadas como {\itshape sign-trackers} y {\itshape goal-trackers} en el procedimiento de elección subóptima, y encontraron aun optimalidad en ambos grupos, lo que sugiere que la atribución de valor incentivo no es una variable crucial en el procedimiento de elección subóptima para las ratas.
+
+% Más adelante, González-Torres y col. (\citeyear{Gonzalez-Torres2020}) avanzaron más aún la hipótesis del valor incentivo en un procedimiento que buscaba disminuir la atribución de valor por parte de las palomas, y no incrementar la atribución de las ratas. Evaluaron a palomas en una variante del procedimiento en la cual sustituyeron las teclas iluminadas por pedales, separando el operando de respuesta del estímulo discriminativo y modificando la topografía de respuesta por una distinta de la conducta consumatoria propia de la especie. En estas condiciones las palomas mostraron conducta óptima, lo cual sugiere que la diferencia en preferencias no se debe a una diferencia fundamental en los mecanismos de toma de decisiones, sino que tiene origen en variables procedimentales.
+
+% Se han propuesto otras explicaciones para la conducta de elección subóptima y las diferencias encontradas entre especies.
+
+% \section{\scshape Otras explicaciones para la conducta de elección subóptima}
+
+% Las explicaciones iniciales  para el fenómeno de la elección subóptima, al surgir antes de los primeros reportes de conducta óptima en ratas (\cite{Trujano2015}), le asignaban al estímulo inhibidor condicionado una importancia baja o nula dado que su efecto se disipa rápidamente para las palomas (\cite{Laude2014}).
+
+% Dentro de estas primeras explicaciones se encuentra la hipótesis del contraste descrita antes (\cite{Zentall2016}), la hipótesis de {\itshape Signals for Good News} (SiGN; \cite{McDevitt2016}), y el modelo ecológico (\cite{Vasconcelos2015}).
+
+% % La hipótesis del contraste (\cite{Zentall2016}) indica que la variable responsable de generar la preferencia por la alternativa subóptima es la diferencia entre la probabilidad esperada de reforzamiento durante el eslabón inicial de la cadena, y la probabilidad esperada durante el eslabón final en presencia de su estímulo asociado. En un procedimiento con probabilidades de reforzamiento de .2 y .5, la probabilidad esperada de reforzamiento durante el eslabón inicial de la alternativa discriminativa es de .2, pero al pasar al eslabón terminal con el estímulo que anuncia la entrega de reforzamiento, la probabilidad esperada salta súbitamente a 1. Esta hipótesis indica que ese cambio en las probabilidades potencia el valor de la alternativa completa. Por otro lado, no hay tal cambio en la probabilidad esperada en la alternativa no discriminativa, por lo que su valor no es potenciado. Sin embargo, la hipótesis no señala por qué el cambio de .2 a 0 en la probabilidad esperada en los ensayos no reforzados no genera un efecto de contraste positivo que altere la preferencia.
+
+% La hipótesis SiGN (\cite{McDevitt2016}) está basada en el marco de reducción de la demora (\cite{Fantino1993}). De acuerdo con ella, la elección es determinada por los efectos conjuntos del reforzamiento primario demorado y el reforzamiento condicionado inmediato. Esta hipótesis toma como punto de referencia para el análisis al momento en que se realiza la respuesta de elección, e indica que todo estímulo que señale una disminución en la demora hasta la siguiente entrega de reforzamiento mayor que la señalada por la propia respuesta de elección adquirirá valor como reforzador condicionado. Según esta propuesta, el estímulo que anuncia la omisión de reforzamiento tendría como única función la provisión de un contexto de incertidumbre. En el procedimiento de elección subóptima los estímulos de la alternativa no-discriminativa, al no estar correlacionados con entrega u omisión de comida, no señalan una disminución en la demora mayor que la señalada por la respuesta de elección, por lo que no se vuelven reforzadores condicionados. En cambio, el estímulo que señala la entrega de reforzamiento en la alternativa discriminativa sí se vuelve un reforzador condicionado robusto. Esta diferencia en la eficacia de los reforzadores condicionados es propuesta como responsable de la preferencia por la alternativa discriminativa.
+
+% Por otro lado, el modelo ecológico (\cite{Vasconcelos2015}) retoma el supuesto de la teoría de forrajeo óptimo según el cual la adecuación a largo plazo de los animales a sus entornos es capturada por la tasa de ingesta de comida, por lo que la selección natural debió favorecer la maximización de esta {\itshape moneda de cambio} ({\itshape currency}, \cite{Stephens1986}). Esta idea es formalizada en el {\itshape Reinforcement Rate Model} tomando nociones de ingesta energética de la teoría de forrajeo óptimo. El modelo busca predecir la preferencia de los animales con base en la tasa de reforzamiento de las alternativas disponibles. La tasa es dependiente de las probabilidades de reforzamiento de las alternativas (equivalente a la probabilidad de captura de una presa en un ambiente natural) y las variables temporales asociadas al procedimiento (longitudes de intervalo entre ensayos, $s$; eslabón terminal, $t$; y entrega de reforzamiento, $h$; equivalentes al tiempo de búsqueda, de persecución, y de manejo, respectivamente). Las tasas de reforzamiento para cada alternativa estarían dadas por
+% \begin{eqnarray*}
+%         R_{disc}&=&\frac{
+%                 p_{disc}
+%         }{
+%         p_{disc}\times (t+h)
+%         }
+%         =
+%         \frac{
+%                 1
+%         }{
+%                 t+h
+%         }\\
+%         &y\\
+%         R_{no-disc}&=&\frac{
+%                 p_{no-disc}
+%         }{
+%         p_{no-disc}\times (t+h)+(1-p_{no-disc})\times t
+%         }\\
+%         \\
+%         &=&
+%         \frac{
+%                 p_{no-disc}
+%         }{
+%                 t+p_{no-disc}\times h
+%         }\\
+%         \\
+%         &=&
+%         \frac{
+%                 1
+%         }{
+%         \frac{t}{0{.}5}+h
+%         }
+% \end{eqnarray*}
+% donde $p_{disc}$ y $p_{no-disc}$ son las probabilidades de reforzamiento para las alternativas discriminativa y no-discriminativa. Debe notarse que estas ecuaciones no toman en cuenta el tiempo pasado en presencia del estímulo negativo ($(1-p_{info})\times t$) ni el intervalo entre ensayos. Este modelo predice preferencia por la alternativa informativa siempre que la probabilidad de reforzamiento $p_{info}$ sea mayor que 0, lo cual ha sido corroborado experimentalmente (\cite{Fortes2016}).
+
+% Un supuesto primordial del modelo es que, en ambientes naturales, los organismos pueden abandonar la persecución de una presa cuando reciben información que les indica que será infructuosa. Al tener esa posibilidad, nunca se han visto obligados a pagar el costo de oportunidad de esperar en un tiempo muerto. Por tanto, sus mecanismos de toma de decisiones no toman en cuenta tales tiempos, lo que lleva a que los organismos se ``desinvolucren'' ({\itshape disengage}) de los estímulos que señalan la omisión de reforzamiento (\cite{Fortes2017,Fortes2018}). Sin embargo, al ser evaluados en el procedimiento de elección subóptima en el laboratorio los organismos se ven obligados a pagar el costo de oportunidad y sus mecanismos, que en un contexto natural serían adaptativos, resultan en elecciones que aparentan ser irracionales. Este supuesto lleva a la atribución al estímulo inhibidor condicionado de una nula influencia sobre la elección y dificulta que el modelo pueda dar cuenta de la preferencia óptima encontrada en las ratas.
+
+% Otras propuestas han surgido buscando explicar tanto la preferencia óptima de las ratas como la subóptima de las palomas. Entre ellas se cuenta la aproximación de información temporal ({\itshape temporal information-theoretic approach;} \cite{Cunningham2018}) y el modelo de decaimiento de la asociabilidad ({\itshape associability decay model;} \cite{Daniels2018}).
+
+% La aproximación de la información temporal (\cite{Cunningham2018}) indica que los estímulos discriminativos del procedimiento, al ser reforzadores condicionados,  adquieren valor debido a la información que proveen acerca de {\slshape cuándo} se entregará un reforzador primario. De acuerdo con esta perspectiva, existe una competencia entre la información temporal dada por los estímulos discriminativos y el reforzamiento primario entregado después de la demora. Así, la elección puede predecirse mediante la ecuación
+% \[
+% p_{sub} = w \frac{
+%         V_{sub}^{a}
+% }{
+%         V_{sub}^{a} + V_{opt}^{a}
+% }
+% +
+% (1-w) \frac{
+%         R_{sub}^{b}
+% }{
+%         R_{sub}^{b} + R_{opt}^{b}
+% }
+% \]
+% donde $p_{sub}$ es la probabilidad de elegir la alternativa discriminativa y subóptima; $V$ es el valor asignado a las señales de cada alternativa; $R$ es la tasa de reforzamiento primario; $a$ y $b$ son parámetros de sensibilidad a los valores de señal y al reforzamiento primario; y $w$ es un parámetro de ponderación que determina el peso relativo asignado a las señales y al reforzamiento primario. 
+
+% El modelo da cuenta de las diferencias en preferencias entre especies al suponer que existe un distinto grado de competencia entre ambas fuentes de reforzamiento. Al predecir optimalidad la preponderancia la tendría el reforzamiento primario, lo que resultaría en un parámetro de $w$ más pequeño, y viceversa.
+
+% El modelo de decaimiento de la asociabilidad (\cite{Daniels2018}), por otro lado, plantea que la preferencia depende de la dinámica de la asignación de la atención a los estímulos de los eslabones terminales. Cuando un estímulo predice un resultado final de manera confiable la atención que se le presta reduce gradualmente, y con ella disminuye también su asociabilidad, es decir, el grado en el que la consecuencia final puede modificar el valor subjetivo asignado a su eslabón inicial. Cuando la asociabilidad baja de un umbral dado, el valor del eslabón inicial asociado deja de ser actualizado. 
+
+% Para explicar la conducta de elección subóptima el modelo presume que, inicialmente, la asociabilidad del estímulo negativo de la alternativa discriminativa cae rápidamente dado que predice confiablemente la ausencia de reforzamiento. Así, las palomas aprenden a ignorarlo, lo que evita que el eslabón inicial de la alternativa discriminativa pierda valor. Después, las palomas aprenden a atender a los estímulos que predicen probabilísticamente el reforzamiento en la alternativa no-discriminativa, lo que reduce el valor de su eslabón inicial con respecto al eslabón inicial de la alternativa discriminativa. De este modo el valor del eslabón inicial de la alternativa discriminativa permanece ``congelado'' en un punto alto, mientras que el de la alternativa no-discriminativa continúa siendo actualizado pero es mantenido en un punto bajo. 
+
+% Cuando este modelo se ha ajustado a la conducta de palomas y ratas se ha encontrado una diferencia en la tasa de decaimiento de asociabilidad: mientras que en el caso de las palomas el estímulo que predice omisión de reforzamiento pierde asociabilidad más rápido que el estímulo que predice entrega, en el caso de las ratas ninguno de los dos estímulos pierde asociabilidad. Esto es consistente con los hallazgos previos que indican que el efecto de inhibición condicionada del estímulo predictor de omisión se pierde rápidamente en las palomas (\cite{Laude2014a}) pero persiste en las ratas (\cite{Trujano2016}).
+
+% Parte de la riqueza de este modelo se encuentra en la descripción de un mecanismo mediante el cual la atención de los organismos es distribuida entre los estímulos, mientras que otras explicaciones ({\itshape e.g.,} \cite{Vasconcelos2010,Iigaya2016}) asumen una distribución diferencial en estado estable. Por otro lado, entre sus limitaciones se cuenta la falta de una explicación que determine por qué la asociabilidad decae para las palomas pero no para las ratas cuando los estímulos discriminativos provienen de una misma modalidad sensorial. Esta explicación podría encontrarse en un análisis de las presiones evolutivas a las que fue sometida cada especie dentro de su nicho ecológico.
+
+% Finalmente, una aproximación distinta proviene del uso del modelo de elección secuencial ({\itshape Sequential Choice Model}). Este modelo parte del supuesto de que los organismos en entornos naturales rara vez se encuentran con situaciones en las cuáles deban escoger entre dos o más ítems de comida disponibles concurrentemente. En lugar de ello, lo más frecuente es que encuentren alternativas de manera secuencial, de modo que su elección no es entre las alternativas A y B, sino entre aceptar la alternativa presente actualmente y rechazarla para continuar buscando (\cite{Shapiro2008,Kacelnik2011}). Debido a ello se hipotetiza que los animales desarrollaron mecanismos de toma de decisiones que están adaptados para los encuentros secuenciales, y esos mismos mecanismos son llamados para los encuentros simultáneos. El modelo de elección secuencial propone que los organismos hacen una valoración de las alternativas que encuentran con base en la relación entre su riqueza y la riqueza del entorno, y esa valoración es traducida en una distribución de latencias. Alternativas más valiosas resultan en latencias de respuesta más cortas al ser presentadas individualmente. Cuando las alternativas se encuentran de manera simultánea cada una ocasiona el muestreo de una latencia de su distribución, y aquella alternativa con la latencia muestreada más corta es manifestada conductualmente. Así, la preferencia es vista como el resultado de procesos paralelos pero independientes y no de una comparación directa de los atributos de las alternativas.
+
+% De acuerdo con el modelo de elección secuencial las latencias de respuesta en encuentros individuales, al ser un reflejo de la valoración que los organismos hacen de las alternativas, son un buen predictor de la preferencia en encuentros simultáneos. Aquellas alternativas más frecuentemente escogidas en presentaciones concurrentes deberían evocar latencias más cortas en presentaciones individuales. Este supuesto del modelo fue inicialmente puesto a prueba en el procedimiento de elección subóptima con palomas (\cite{Vasconcelos2015}), y más adelante con estorninos (\cite{Macias2020}) y ratas (\cite{Ojeda2018a}). En todos los casos la preferencia de los sujetos en ensayos de dos alternativas fue predicha cercanamente por las latencias durante ensayos de una sola alternativa.
+
+% \section{\scshape Conclusión}
+
+% La investigación hasta este momento ha mostrado manipulaciones que consiguen fomentar o impedir el surgimiento de la conducta de elección subóptima. Sin embargo, aun no es claro qué variables son necesarias y suficientes para su aparición. Ciertamente existe evidencia que señala al valor incentivo como una variable relevante. Sin embargo, los resultados derivados de su manipulación no son totalmente concluyentes. A esta dificultad se suma la discrepancia entre los resultados de especies distintas en condiciones aparentemente equivalentes.
+
+% Aun hay mucho por comprender acerca del fenómeno de elección subóptima, y la búsqueda de las causas detrás de las diferencias entre especies puede ser una herramienta crucial para lograr un entendimiento completo de las variables implicadas en su desarrollo. La sensibilidad diferencial al efecto del estímulo predictor de omisión de reforzamiento en la alternativa discriminativa parece ser una de las líneas más sólidas en las cuales buscar los orígenes de esta diferencia entre especies. Será necesario realizar más investigación dirigida a explorar los orígenes de esta sensibilidad.
+
+% Los modelos matemáticos más recientes cumplen con el objetivo de integrar todo el rango de resultados obtenido en el procedimiento. Sin embargo, a pesar de que resultan en buenos ajustes con los datos observados, a menudo fallan en describir las causas sobre las cuales se basan los supuestos que permiten dar cuenta de las diferencias entre especies.
+
+% Se debe resaltar la necesidad de realizar estudios con bases más ecológicas que busquen utilizar a la conducta de elección subóptima como una herramienta para incrementar el entendimiento de la función adaptativa de los mecanismos de toma de decisiones, y no como un contraejemplo para desacreditar a las teorías de optimalidad. Determinar las diferencias en demandas ambientales que resultaron en diferencias en sensibilidad a los parámetros del procedimiento podría proveer una pieza faltante para las explicaciones propuestas hasta el momento.
+
+
+\newpage
+\printbibliography
+
+
+\end{document}
